@@ -77,3 +77,4 @@ function saveAndExit() {
     exit=true;
 }
 main();
+// data.json [{"name":"sang","age":22},{"name":"khanh","age":22},{"name":"hoang","age":22}]
